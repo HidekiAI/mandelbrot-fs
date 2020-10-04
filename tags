@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+Summary:	README.md	/^## Summary:$/;"	s
+calculate_mandelbrot	main.rs	/^fn calculate_mandelbrot($/;"	f
+main	main.rs	/^fn main() {$/;"	f
+mandelbrot-fs	README.md	/^# mandelbrot-fs$/;"	c
+mandelbrot_at_point	main.rs	/^fn mandelbrot_at_point(cx: f64, cy: f64, max_iters: usize) -> usize {$/;"	f
+render_mandelbrot	main.rs	/^fn render_mandelbrot(escape_vals: Vec<Vec<usize>>) {$/;"	f
